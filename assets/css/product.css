@@ -1,0 +1,43 @@
+#aboutUs{
+	width: 80%;
+	margin-left: 150px;
+}
+.btn-watch-video{
+	    color: #ff6600;
+    font-size: 32px;
+    position: absolute;
+    left: 0;
+    top: 7px;
+    transition: 0.3s;
+    margin-left: 50%;
+    margin-top: 100px;
+}
+#image1{
+	margin-left: 150px;
+}
+#whatWeDo{
+	width: 80%;
+	margin-left: 20px;
+	margin-right: ;
+}
+.element_typography{
+	background-image: url('image/download.png');
+}
+#development h1{
+	color: #00004d;
+
+}
+#img34{
+	margin-top: 0px;
+}
+.input1{
+  height: 55px;
+  width: 250px;
+  border: none;
+  padding: 10px;
+  border-bottom: 1px solid;
+  border-bottom-color: #c0baf6;
+}
+#aboutContent1{
+	margin-left: 150px;
+}

@@ -1,0 +1,67 @@
+#whatWeDo p{
+
+font-family: "nunito";
+font-size: 22px;
+
+}
+#whatWeDo h1{
+	font-family: "nunito";
+	color: #00134d;
+
+}
+#serviceButton button{
+	background-color:  #4da6ff;
+	 color: #fff; 
+	 border: none;
+	 height: 50px;
+	 width: 150px;
+	 margin-left: 50%;
+	 border-radius:5px;
+
+}
+
+#ourServices h1 h6{
+	font-family: "nunito";
+	
+}
+#card1{
+	text-align: center;
+	font-family: "nunito";
+	
+}
+#card2{
+	text-align: center;
+	font-family: "nunito";
+	
+}
+#card3{
+	text-align: center;
+	font-family: "nunito";
+	
+}
+#card4{
+	text-align: center;
+	font-family: "nunito";
+	
+}
+#card5 {
+	text-align: center;
+	font-family: "nunito";
+	
+	
+}
+#card1 h2{{
+	font-family: "nunito";
+}
+#aboutUs{
+	width: 80%;
+	margin-left: 150px;
+}
+.input1{
+  height: 55px;
+  width: 250px;
+  border: none;
+  padding: 10px;
+  border-bottom: 1px solid;
+  border-bottom-color: #c0baf6;
+}

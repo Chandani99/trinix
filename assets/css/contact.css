@@ -1,0 +1,12 @@
+.section-title{
+	margin-top: 50px;
+}
+
+.input1{
+  height: 55px;
+  width: 200px;
+  border: none;
+  padding: 10px;
+  border-bottom: 1px solid;
+  border-bottom-color: #c0baf6;
+}
